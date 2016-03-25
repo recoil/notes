@@ -22,4 +22,4 @@
 * [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
 * [Chai Assertion Library](http://chaijs.com/guide/styles/)
 * [Mozilla Javascript references](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-
+* [Tern Completion](http://ternjs.net/) 
