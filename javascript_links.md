@@ -5,6 +5,7 @@
 * [Setting up ES6 book](https://leanpub.com/setting-up-es6/read)
 * [ES6 Cheat Sheet](http://www.cheatography.com/romansemko/cheat-sheets/ecmascript-6-es6/)
 * [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
+* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
 ## Tips
 * [Axel Raushmayer's Blog](http://www.2ality.com/2016/02/arrow-functions-vs-bind.html)
@@ -20,6 +21,7 @@
 * [Introducting Ramda](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
 * [Underscore doing it wrong](https://www.youtube.com/watch?v=m3svKOdZijA)
 * [Bluebird - Promises Library](http://bluebirdjs.com/docs/getting-started.html)
+* [Async Library](https://github.com/caolan/async)
 
 ## Testing
 * [Mocha for testing](https://mochajs.org/)
@@ -39,3 +41,9 @@
 * [Tern Completion](http://ternjs.net/) 
 * [WebPack](http://webpack.github.io/docs/tutorials/getting-started/)
 * [JSBin](http://jsbin.com)
+
+## Blogs
+* [SurviveJS](http://survivejs.com/blog/)
+* [PonyFoo](https://ponyfoo.com/)
+* [Rising Stack Blog](https://blog.risingstack.com/)
+
