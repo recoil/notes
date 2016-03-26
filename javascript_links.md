@@ -7,11 +7,11 @@
 * [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
 * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
-## Tips
-* [Axel Raushmayer's Blog](http://www.2ality.com/2016/02/arrow-functions-vs-bind.html)
+## Articles, Tips, etc.
 * [State of the Art in JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.2vtmq334k)
 * [Things every JavaScript developer should know](http://ilikekillnerds.com/2015/03/things-every-javascript-developer-should-know/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [Promises Article Series](http://blog.getify.com/promises-part-1/)
 
 ## Libraries
 * [Lodash](http://lodash.com)
@@ -46,4 +46,4 @@
 * [SurviveJS](http://survivejs.com/blog/)
 * [PonyFoo](https://ponyfoo.com/)
 * [Rising Stack Blog](https://blog.risingstack.com/)
-
+* [Axel Raushmayer's Blog](http://www.2ality.com/)
